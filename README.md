@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Sharan 👋
 
-<!--
-**ai-sharan/ai-sharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final year BCA student @ **JSS SMI College Dharwad** passionate about the world of **AI** and **Machine Learning**. I love exploring new technologies and keeping up with the latest in tech!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🚀 Currently learning about Artificial Intelligence and Machine Learning
+- 🐍 Decent knowledge of **Python** and **C**
+- 💾 Familiar with **MySQL**
+- 🌐 Basic web skills: **HTML** & **CSS**
+- 🐧 Exploring **Linux** and open source
+- 📚 Always curious and eager to learn something new
+
+---
+
+### 🌱 Learning Journey
+
+I’m just getting started with hands-on projects and open source contributions. My focus right now is building a strong foundation in AI/ML and expanding my coding skills. If you’re on a similar path or have advice, let’s connect!
+
+---
+
+### 📫 Connect with Me
+
+- **Instagram:** [@ai.sharan](https://instagram.com/ai.sharan)
+- **X (Twitter):** [@ai_sharan](https://twitter.com/ai_sharan)
+- **LinkedIn:** [Sharan Shivannanavar](https://www.linkedin.com/in/sharan-shivannanavar-b37966230)
+- **Email:** ai.sharan.dev@gmail.com
+
+---
+
+> "Everyone starts somewhere. I'm excited to see where learning takes me."
+
+---
+
+Thanks for visiting my profile! 😊
